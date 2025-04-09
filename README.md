@@ -1,39 +1,42 @@
-## Hi there! 👋
+<h1 align="center">Hello there! 👋</h1>
 
-I'm **Hieu Nguyen**, a passionate developer who loves to explore new technologies and build innovative solutions. I believe in the power of collaboration and the beauty of code!
+<div align="center">
+  <p>I'm <strong>Jake</strong>, a Software Engineering student at the University of Science VNU.<br>
+  I'm passionate about creating innovative and efficient software solutions.</p>
+</div>
 
-## About Me
+<br>
 
-Currently, I am a student at **University of Science, VNU-HCM**, where I am honing my skills in computer science and software development. I enjoy working on projects that challenge me and allow me to grow as a developer.
+<div align="center">
+  <img src="https://media3.giphy.com/media/egWiLO8nE1A3u/giphy.gif" height="180" />
+</div>
 
-## Skills & Technologies
+<h2 align="center">🛠 Tech Stack</h2>
 
-c,cpp,html,css,docker,git,github,vue,react,nodejs,mysql,postgres,aws,flask,django
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white">&nbsp;
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">&nbsp;
+  <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff">&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">&nbsp;
+</div>
 
-## Top Projects
+<h2 align="center">📊 GitHub Stats</h2>
 
-- [Weather App](https://github.com/JakeConal/weather-app): A practice project to build a weather application using modern tools and frameworks for real-time weather forecasting. **Stars:** 0, **Language:** C#  
-- [Data Structure and Algorithm Sorting Project](https://github.com/JakeConal/data-structure-and-algorithm-sorting-project): Group project for Data Structure and Algorithm, Semester 3, K2023, University of Science VNU-HCM. **Stars:** 0, **Language:** N/A  
-- [Computer Networking Socket Project](https://github.com/JakeConal/computer-networking-socket-project): Group Networking project for K23 Semester 3, University of Science, VNU-HCM. **Stars:** 0, **Language:** N/A  
-- [Programming Techniques 2048 Game Project](https://github.com/JakeConal/programming-techniques-2048-game-project): Programming techniques project, semester 2, 2024, University of Science VNU-HCM. **Stars:** 0, **Language:** C++  
-- [Autocomplete Trie Benchmark](https://github.com/JakeConal/data-structure-and-algorithm-autocomplete-trie-benchmark): A project that builds an autocompletion tool using compressed trie and benchmarks its performance against binary search. **Stars:** 0, **Language:** C++
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakeConal&theme=github_dark" />
+  <br><br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakeConal&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakeConal&theme=github_dark" />
+</div>
 
-## GitHub Stats
+<h2 align="center">📫 Connect with me</h2>
 
-🌟 **Public Repositories:** 7  
-👥 **Followers:** 2  
-🔗 **Following:** 0  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JakeConal&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Created the repository [weather-app](https://github.com/JakeConal/weather-app)  
-- Updated the repository [data-structure-and-algorithm-sorting-project](https://github.com/JakeConal/data-structure-and-algorithm-sorting-project)  
-- Contributed to the repository [computer-networking-socket-project](https://github.com/JakeConal/computer-networking-socket-project)  
-- Committed to the [autocomplete-trie-benchmark](https://github.com/JakeConal/data-structure-and-algorithm-autocomplete-trie-benchmark)  
-- Pushed changes to the [programming-techniques-2048-game-project](https://github.com/JakeConal/programming-techniques-2048-game-project)
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts. Stay tuned for updates!
+<p align="center">
+  Gmail: hieunguyen.jc@gmail.com<br>
+  Instagram: https://www.instagram.com/hieunguyen.jc17/<br>
+  Facebook: https://www.facebook.com/profile.php?id=100013455122482
+</p>
