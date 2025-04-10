@@ -44,5 +44,5 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JakeConal/JakeConal/.github/workflows/snake.yml" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/JakeConal/JakeConal/snake.yml" alt="Snake animation" />
 </div>
