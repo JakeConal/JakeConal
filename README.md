@@ -40,3 +40,9 @@
   Instagram: https://www.instagram.com/hieunguyen.jc17/<br>
   Facebook: https://www.facebook.com/profile.php?id=100013455122482
 </p>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JakeConal/JakeConal/output/snake.svg" alt="Snake animation" />
+</div>
