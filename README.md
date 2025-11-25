@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
