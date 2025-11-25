@@ -1,48 +1,36 @@
-<h1 align="center">Hello there! 👋</h1>
+# Hi, I'm Jake 👋
 
-<div align="center">
-  <p>I'm <strong>Jake</strong>, a Software Engineering student at the University of Science VNU.<br>
-  I'm passionate about creating innovative and efficient software solutions.</p>
-</div>
+Software Engineering student at the University of Science VNU, passionate about creating innovative and efficient software solutions.
 
-<br>
+---
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/egWiLO8nE1A3u/giphy.gif" height="180" />
-</div>
-
-<h2 align="center">🛠 Tech Stack</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white">&nbsp;
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">&nbsp;
-  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white">&nbsp;
-</div>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakeConal&theme=default" />
-  <br><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakeConal&theme=default" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakeConal&theme=default" />
-</div>
-
-<h2 align="center">📫 Connect with me</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  Gmail: hieunguyen.jc@gmail.com<br>
-  Instagram: <a href="https://www.instagram.com/hieunguyen.jc17/">https://www.instagram.com/hieunguyen.jc17/</a><br>
-  Facebook: <a href="https://www.facebook.com/profile.php?id=100013455122482">https://www.facebook.com/profile.php?id=100013455122482</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=JakeConal&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeConal&layout=compact&theme=default&langs_count=8" alt="Top Languages"/>
+</p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JakeConal/JakeConal/output/snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeConal&theme=default" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:hieunguyen.jc@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/hieunguyen.jc17/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100013455122482">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
