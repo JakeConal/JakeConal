@@ -1,15 +1,19 @@
-# Hi, I'm Jake 👋
+<div align="center">
+  
+# 👋 Hi there, I'm Jake
 
-Software Engineering student at the University of Science VNU, passionate about creating innovative and efficient software solutions.
+**Software Engineering Student** @ University of Science VNU  
+*Passionate about building innovative and efficient software solutions*
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JakeConal&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeConal&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakeConal&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakeConal&theme=default" alt="Top Languages"/>
 </p>
 
 <p align="center">
