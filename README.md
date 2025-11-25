@@ -2,23 +2,19 @@
 
 Software Engineering student at the University of Science VNU, passionate about creating innovative and efficient software solutions.
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JakeConal&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JakeConal&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeConal&layout=compact&theme=default&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakeConal&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeConal&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakeConal&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
-
----
 
 ## 📫 Let's Connect
 
