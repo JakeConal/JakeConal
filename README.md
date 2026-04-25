@@ -1,5 +1,15 @@
 <div align="center">
   <h1>👋 Hi there, I'm Jake</h1>
+
+  <div align="center">
+    <a href="https://www.linkedin.com/in/hi%E1%BA%BFu-nguy%E1%BB%85n-383172380/" target="_blank" rel="noreferrer noopener">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:hieunguyen.jc@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+  
   <p><strong>Software Engineering Student</strong> @ University of Science VNU</p>
   <p><em>Passionate about building innovative and efficient software solutions</em></p>
 </div>
