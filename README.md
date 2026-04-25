@@ -3,7 +3,7 @@
 # 👋 Hi there, I'm Jake
 
 **Software Engineering Student** @ University of Science VNU  
-*Passionate about building innovative and efficient software solutions*
+_Passionate about building innovative and efficient software solutions_
 
 </div>
 
@@ -29,18 +29,3 @@
     <img alt="Contribution Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakeConal&theme=default"/>
   </picture>
 </p>
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:hieunguyen.jc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/hieunguyen.jc17/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100013455122482">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-</p>
-
