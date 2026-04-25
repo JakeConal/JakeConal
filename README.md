@@ -10,14 +10,12 @@ _A compact snapshot of activity, language mix, and contribution flow._
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakeConal&theme=transparent">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakeConal&theme=transparent">
-    <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JakeConal&theme=transparent" width="49%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JakeConal&theme=transparent&show_icons=true&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JakeConal&theme=transparent&show_icons=true&hide_border=true&count_private=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JakeConal&theme=transparent&show_icons=true&hide_border=true&count_private=true" width="49%" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakeConal&theme=transparent">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakeConal&theme=transparent">
-    <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JakeConal&theme=transparent" width="49%" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=JakeConal&theme=transparent&hide_border=true" width="49%" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakeConal&theme=transparent">
