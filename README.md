@@ -29,3 +29,13 @@ _Passionate about building innovative and efficient software solutions_
     <img alt="Contribution Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JakeConal&theme=default"/>
   </picture>
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JakeConal/JakeConal/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JakeConal/JakeConal/output/snake-light.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/JakeConal/JakeConal/output/snake-light.svg"/>
+  </picture>
+</p>
